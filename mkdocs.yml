@@ -1,0 +1,27 @@
+site_name: Netmonitor
+site_url: https://parizene.github.io/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  language: en
+nav:
+  - Home: index.md
+  - "Screens":
+    - Cell: screen-cell.md
+    - Log: screen-log.md
+    - Map: screen-map.md
+    - Wi-Fi: screen-wifi.md
+  - "Cell database":
+      - Default: cell-database-default.md
+      - Deprecated: cell-database-deprecated.md
+  - Changelog: changelog.md
+  - Useful links: useful-links.md
+  - Mentions: mentions.md
