@@ -19,6 +19,7 @@ nav:
     - Log: screen-log.md
     - Map: screen-map.md
     - Wi-Fi: screen-wifi.md
+  - "Cell tower location": cell-tower-location.md
   - "Cell database":
       - Default: cell-database-default.md
       - Deprecated: cell-database-deprecated.md
