@@ -15,15 +15,17 @@ theme:
 nav:
   - Home: index.md
   - "Screens":
-    - Cell: screen-cell.md
-    - Log: screen-log.md
-    - Map: screen-map.md
-    - Wi-Fi: screen-wifi.md
-  - "Cell tower location": cell-tower-location.md
+      - Cell: screen-cell.md
+      - Log: screen-log.md
+      - Map: screen-map.md
+      - Wi-Fi: screen-wifi.md
   - "Cell database":
       - Default: cell-database-default.md
       - Deprecated: cell-database-deprecated.md
+  - Knowledge base:
+      - Cell tower location: cell-tower-location.md
+      - 5G NR: 5g-nr.md
+      - Service menu: service-menu.md
+      - Useful links: useful-links.md
   - Changelog: changelog.md
-  - Service menu: service-menu.md
-  - Useful links: useful-links.md
   - Mentions: mentions.md
